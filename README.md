@@ -23,7 +23,7 @@ The best way to learn wit is to check out the [tutorial](doc/tutorial.md).
 
 ### Installation
 
-Wake is intended to be as lightweight as possible. It simply requires `git` and `Python` version 3.5 or greater.
+Wit is intended to be as lightweight as possible. It simply requires `git` and `Python` version 3.5 or greater.
 
 You can use `pip` to install:
 ```bash
